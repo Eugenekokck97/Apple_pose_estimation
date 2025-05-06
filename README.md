@@ -10,7 +10,7 @@ Pytorch implementation of the paper "[Occluded apples orientation estimator base
 ## Introduction
 
 ### Apple Pose Detection Network
-![Apple Pose Detection Network](.github/Inference_results.png)
+![Apple Pose Detection Network](.github/System_overview.png)
 
 - Proposed an apple orientation estimator to assist with fruit detachment in orchards.
 - Combination of keypoint detection network with improved circle detection module.
@@ -78,7 +78,7 @@ python main.py
 ## Results
 
 ### Visual Results
-![Visual_results](.github/System_overview.png)
+![Visual_results](.github/Inference_results.png)
 
 ### 2D pose estimation evaluation
 | mAP | mAR |
