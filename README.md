@@ -88,8 +88,8 @@ python main.py
 ### 3D pose anguler error 
 
 | median | max | min |
-| :---  |  :---:   |
-| 17.6\theta | 158.5\theta | 1.4\theta | 
+| :---  |  :---:   | :---:   |
+| 17.6$\theta$ | 158.5$\theta$ | 1.4$\theta$ | 
 
 ## Citation
 
