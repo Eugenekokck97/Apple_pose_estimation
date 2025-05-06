@@ -89,7 +89,7 @@ python main.py
 
 | median | max | min |
 | :---  |  :---:   | :---:   |
-| 17.6$\theta$ | 158.5$\theta$ | 1.4$\theta$ | 
+| 17.6$^\circ$ | 158.5$^\circ$ | 1.4$^\circ$ | 
 
 ## Citation
 
